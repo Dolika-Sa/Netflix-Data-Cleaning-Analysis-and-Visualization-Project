@@ -8,16 +8,18 @@ The dataset for this project can be obtained from Kaggle.com. It contains compre
 1.Data Cleaning
 - Handled null values and reformatted dates
 - Standardized genres and ratings
+  
 2.Analysis Performed
 - Movie vs. TV Show distribution (~70% Movies)
 - Popular genres: Drama (~25%), Comedy (~15%), International (~13%)
 - Country-wise content: US leads (~55%), followed by India and UK
 - Ratings: Most content is TV-MA and TV-14
 - Sentiment: 65% Positive, 30% Neutral, 5% Negative
+  
 3.Visualizations
 - Used Matplotlib, Seaborn, Plotly
 - Year-wise trends, rating distributions, and sentiment pie charts
-- 
+
 # Key Insights
 - ~70% of the catalog consists of Movies, and ~30% are TV Shows.
 - Dramas, Comedies, and International content dominate genres (~50% total).
