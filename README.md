@@ -28,4 +28,7 @@ The dataset for this project can be obtained from Kaggle.com. It contains compre
 - ~65% of content descriptions convey a positive sentiment.
 - The peak content addition occurred between 2015–2020.
 
+#Snapshot of my Power BI Dashboard-
+[Dashboard Preview](https://github.com/Dolika-Sa/Netflix-Data-Cleaning-Analysis-and-Visualization-Project/blob/main/Netflix%20Power%20BI%20Dashboard.png)
+
 
