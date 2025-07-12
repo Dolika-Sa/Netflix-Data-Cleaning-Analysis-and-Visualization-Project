@@ -21,7 +21,7 @@ The dataset for this project can be obtained from Kaggle.com. It contains compre
 - Year-wise trends, rating distributions, and sentiment pie charts
 - Also used Power BI Desktop for report creation.
 
-# Key Insights
+### Key Insights
 - ~70% of the catalog consists of Movies, and ~30% are TV Shows.
 - Dramas, Comedies, and International content dominate genres (~50% total).
 - The U.S. contributes ~55% of all content, followed by India and the UK.
