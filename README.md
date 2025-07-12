@@ -19,6 +19,7 @@ The dataset for this project can be obtained from Kaggle.com. It contains compre
 3.Visualizations
 - Used Matplotlib, Seaborn, Plotly
 - Year-wise trends, rating distributions, and sentiment pie charts
+- Also used Power BI Desktop for report creation.
 
 # Key Insights
 - ~70% of the catalog consists of Movies, and ~30% are TV Shows.
